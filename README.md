@@ -43,15 +43,15 @@ necessidades do cliente.<br>
 
 #### Modelo de Briefing
 1. Necessidade do cliente.
-    1.1. Me conte sobre a sua empresa, o que ela faz, sua história e etc.
+    * Me conte sobre a sua empresa, o que ela faz, sua história e etc.
 >   A empresa é a **Bikcraft** é uma empresa que criar bicicletas personalizadas, <br>
 >   empresa nova, mas que utilizar tradição na montagem das bicicletas.<br>
-    1.2. O que te levou a querer criar um site / site novo ?
+    * O que te levou a querer criar um site / site novo ?
 >   Ele precisa de divulgar um produto para novos clientes.<br>
-    1.3. Caso já possua um site, quais resultados o site atual trás para empresa?
+    * Caso já possua um site, quais resultados o site atual trás para empresa?
 >   Não possui site.<br>
-    1.4. O que você espera que vai acontecer quando o novo site estiver online.
+    * O que você espera que vai acontecer quando o novo site estiver online.
 >   Não possui site.<br>
-    1.5. Para você, qual deve ser o principal objetivo do site novo? Qual <br>
+    * Para você, qual deve ser o principal objetivo do site novo? Qual <br>
     a necessidade do seu público que ele deve suprir?
 >   Não possui site.<br>
