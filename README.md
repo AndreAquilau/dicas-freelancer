@@ -51,5 +51,5 @@ necessidades do cliente.<br>
         *Não possui site.*
     *  O que você espera que vai acontecer quando o novo site estiver online.<br>
         *Não possui site.*
-    *  Para você, qual deve ser o principal objetivo do site novo? Qual <br>a necessidade do seu público que ele deve suprir?<br>
+    *  Para você, qual deve ser o principal objetivo do site novo? Qual a necessidade do seu público que ele deve suprir?<br>
         *Não possui site.*
