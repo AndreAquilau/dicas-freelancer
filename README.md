@@ -56,31 +56,31 @@ necessidades do cliente.<br>
         *material que elas são feitas.*
 
 2.  Sobre a Empresa
-    * Que serviços / produto você oferece e a quanto tempo ?
+    * Que serviços / produto você oferece e a quanto tempo?<br>
       *Bicicletas.*
-    * Todos serviços / produto serão mostrados no site?
+    * Todos serviços / produto serão mostrados no site?<br>
       *Modelo de passeio, esporte e retro.*
-    * Serão mostrados preços no site ou será necessário o usuário perdir um orçamento.
+    * Serão mostrados preços no site ou será necessário o usuário perdir um orçamento.<br>
       *Não vai mostrar, necessário pedir um orçamento.*
-    * Os possíveis visitantes do site estão familiarizados com o produto que você oferece ou precisam ser apresentados?
+    * Os possíveis visitantes do site estão familiarizados com o produto que você oferece ou precisam ser apresentados?<br>
       *Já estão familiarizado, porém caso seja um produto diferenciado colocar uma apresentação.*
-    * A empresa possui missão, visão e valores definidos
+    * A empresa possui missão, visão e valores definidos<br>
       *Sim já possui definido. (**Pedir por E-mail**)*
-    * Quais dados de contato serão mostrados no Site? Telefone, endereço e e-mail? Será necessário a criação de um formulario de contato?
+    * Quais dados de contato serão mostrados no Site? Telefone, endereço e e-mail? Será necessário a criação de um formulario de contato?<br>
       *Sim queremos um formulário de contato para que o cliente possa pedir o orçamento.*
       *Vamos mostrar endereço, telefone e e-mail*
-    * É relevante mostra os seus prinicpais clientes / parceiros?
+    * É relevante mostra os seus prinicpais clientes / parceiros?<br>
       *Sim queremos mostrar o nosso portfólio. Mostrar bicicletas que construimos para outros clientes.*
-    * A empresa já possui identidade visual? As cores, tipografia e estilo já estão definidos e devem ser seguidos no site?
+    * A empresa já possui identidade visual? As cores, tipografia e estilo já estão definidos e devem ser seguidos no site?<br>
       *A empresa só tem um logotipo.(**Pedir o logotipo vetorizados**) pegar como referência as cores, tipografia e estilo.*
       *Não fugir muito forá da identidade visual da empresa.*
 
 3. Sobre o Site
-    * Você já pensou em uma possível divisão do conteúdo no site?
+    * Você já pensou em uma possível divisão do conteúdo no site?<br>
     *Já pensei, sobre a empresa, os clientes, os produtos e contato. Trabalhe conosco.*
-    * O site vai precisar de alguma funcionabilidade específica?
+    * O site vai precisar de alguma funcionabilidade específica?<br>
     *Formulário para pedir orçamento. Se não conseguir fazer comunicar o cliente e fala que vai gerar um custo maior pois terá que pedir para outra pessoa ajudar você.*
-    * De quanto em qunato tempo as informações do site devem ser atualizada?
+    * De quanto em qunato tempo as informações do site devem ser atualizada?<br>
         * *Nunca atulizar*
         * *Você ficara responsavel por atulizar as informaçes do site.*
         * *Criar um sitema que ele mesmo possa fazer essa atualização.*
