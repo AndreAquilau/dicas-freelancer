@@ -36,20 +36,20 @@ necessidades do cliente.<br>
  **Entregar algo que o usuário não estava esperando.**
 - Satisfação
     - **Expectativa Baixa**
-    - **Percepção Alta**
+    - **Percepção Alta**<br>
 **Criar uma espectativa no cliente que não seja muito alta ou seja uma espectativa boa.**<br>
 **E quando entregar o site ele vai ter uma expectativa maior do que esperava gerando Satisfação.**<br>
 
 #### Modelo de Briefing
 1.  Necessidade do cliente.
-    *  Me conte sobre a sua empresa, o que ela faz, sua história e etc.
+    *  Me conte sobre a sua empresa, o que ela faz, sua história e etc.<br>
         A empresa é a **Bikcraft** é uma empresa que criar bicicletas personalizadas, <br>
         empresa nova, mas que utilizar tradição na montagem das bicicletas.
-    *  O que te levou a querer criar um site / site novo ?
+    *  O que te levou a querer criar um site / site novo ?<br>
         Ele precisa de divulgar um produto para novos clientes.
-    *  Caso já possua um site, quais resultados o site atual trás para empresa?
+    *  Caso já possua um site, quais resultados o site atual trás para empresa?<br>
         Não possui site.
-    *  O que você espera que vai acontecer quando o novo site estiver online.
+    *  O que você espera que vai acontecer quando o novo site estiver online.<br>
         Não possui site.
-    *  Para você, qual deve ser o principal objetivo do site novo? Qual <br>a necessidade do seu público que ele deve suprir?
+    *  Para você, qual deve ser o principal objetivo do site novo? Qual <br>a necessidade do seu público que ele deve suprir?<br>
         Não possui site.
