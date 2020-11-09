@@ -42,7 +42,7 @@ necessidades do cliente.<br>
 **E quando entregar o site ele vai ter uma expectativa maior do que esperava gerando Satisfação.**<br>
 
 #### Modelo de Briefing
-1  Necessidade do cliente.
+1.  Necessidade do cliente.
     *  Me conte sobre a sua empresa, o que ela faz, sua história e etc.
         >A empresa é a **Bikcraft** é uma empresa que criar bicicletas personalizadas, <br>
         >empresa nova, mas que utilizar tradição na montagem das bicicletas.
